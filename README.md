@@ -8,3 +8,4 @@ Integrantes:
 	- Maissa Sarmiento Castellanos - 202010050045
 	- Marcela Yorleni Trochez Flores - 201910060140
 	- Arnol Caballero Sarmiento - 201110210044
+	- Manuel Coto 201710120028
